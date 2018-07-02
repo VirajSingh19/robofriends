@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+
+
 h1 {
-    
-    background: -webkit-linear-gradient(#eee, rgb(45, 150, 219));
+  
+    font-family: 'Luckiest Guy', cursive;  
+    background: -webkit-linear-gradient(rgb(41, 27, 27), rgb(0, 0, 0));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
